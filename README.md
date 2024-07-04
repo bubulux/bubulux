@@ -1,9 +1,9 @@
-# About me
+## Projects
 
--
+![datc-logo](/assets/datc.svg)
 
-# Projects
+## Hall of shame
 
-![test](/assets/Logo.svg)
+![taskmananagerIO](/assets/tio.svg)
 
-# Hall of shame
+<img src="assets/ttt.png" alt="tic-tac-toe" width="96px"/>
