@@ -1,3 +1,9 @@
-## Me
+# About me
 
-# Test
+-
+
+# Projects
+
+![test](/assets/Logo.svg)
+
+# Hall of shame
