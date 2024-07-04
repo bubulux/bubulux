@@ -1,8 +1,14 @@
-## Projects
+## Hall of fame
 
-![datc-logo](/assets/datc.svg)
+_Projects that I primarily work on..._
+
+| Icon                           | Name        | Description | Link    | Status                                                                                   |
+| ------------------------------ | ----------- | ----------- | ------- | ---------------------------------------------------------------------------------------- |
+| ![datc-logo](/assets/datc.svg) | coming soon | coming soon | no link | <span style="background-color: yellow; padding: 5px; border-radius: 5px;">pre-mvp</span> |
 
 ## Hall of shame
+
+_Projects whose code is so ugly, I chose to make the repos private..._
 
 | Icon                                                       | Name           | Description                                                                                                                                                                       | Link                                                 |
 | ---------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
